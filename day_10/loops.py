@@ -1,5 +1,4 @@
 # Day 10: 30 Days of python programming
-from calendar import c
 from countries import countries
 from countries_data import countries_data
 
